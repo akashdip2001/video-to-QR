@@ -191,7 +191,7 @@ https://github.com/user-attachments/assets/39cbb3f1-90d2-41ba-9308-02f75f32aade
 
 > The warnings you're seeing — like:
 
-```
+```python
 WARNING: zbar\decoder\databar.c:1250: <unknown>: Assertion "seg->finder >= 0" failed.
 ```
 
