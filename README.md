@@ -6,7 +6,7 @@
 
 **QRVideoSlicer** is a Python-based tool that allows users to **split large video files into QR code images**, making it possible to store and share videos within size-limited platforms (e.g., GitHub’s 25MB file limit). Each QR code contains a chunk of the encoded video, and a header file maps the order and metadata.
 
-The same tool can then be used to **reconstruct the original video** from these QR codes. This makes the system ideal for scenarios where videos need to be archived or transferred in limited environments.
+> The same tool can then be used to **reconstruct the original video** from these QR codes. This makes the system ideal for scenarios where videos need to be archived or transferred in limited environments.
 
 ![idea](https://github.com/user-attachments/assets/28f2a94a-73c5-4190-8f79-c21592bbe1ba)
 
