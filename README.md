@@ -1,4 +1,4 @@
-# 🧠 video-to-QR : `QRVideoSlicer`**
+# 🧠 video-to-QR : **`QRVideoSlicer`**
 
 ---
 
