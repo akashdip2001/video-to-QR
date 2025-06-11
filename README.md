@@ -280,3 +280,11 @@ QR_BOX_SIZE = 12  # bigger boxes = easier decode
 ## 📚 **Conclusion**
 
 **QRVideoSlicer** is a unique, practical tool built for modern-day versioning and distribution challenges involving large video files. Its focus on interactivity, automation, and data preservation makes it ideal for learning purposes and real-world utility.
+
+---
+
+## 🎯 Need Future Upgrade
+
+- If user want - add passward when Increft & pass must requird to Export.
+- add a Output folder for Output videos.
+- Fix error handaling.
